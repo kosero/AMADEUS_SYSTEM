@@ -4,7 +4,6 @@
   "description": "a discord bot for lum",
   "license": "BSD-3-Clause",
   "author": "kosero@tuta.io",
-  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
