@@ -1,7 +1,7 @@
-import {Client} from "discord.js";
+import { Client } from "discord.js";
 
 const client = new Client({
-    intents: ["Guilds","GuildMembers", "GuildMessages", "GuildVoiceStates"]
+  intents: ["Guilds", "GuildMembers", "GuildMessages", "GuildVoiceStates"],
 });
 
 export default client;
